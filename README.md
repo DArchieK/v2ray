@@ -6,3 +6,5 @@ git clone https://github.com/DArchieK/v2ray
 cd v2ray  
 chmod +x install.sh  
 ./install.sh local  
+
+https://v2ray666.com/  
